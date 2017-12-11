@@ -81,6 +81,6 @@ Track weekly progress in this section according to above mentioned goals.
     - [x] Setup Virtualbox on linux and install OS
     - [ ] Do research in finding the right project
         - [x] Go throught list of organizations that participated GSOC in last 3 years.
-        - [ ] Use [OpenHub](https://www.openhub.net) to explore.
+        - [x] Use [OpenHub](https://www.openhub.net) to explore.
         - [x] Select 5 suitable organizations.
         - [ ] Select 3 projects per organization.
