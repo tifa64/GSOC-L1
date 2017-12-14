@@ -84,3 +84,12 @@ Track weekly progress in this section according to above mentioned goals.
         - [x] Use [OpenHub](https://www.openhub.net) to explore.
         - [x] Select 5 suitable organizations.
         - [ ] Select 3 projects per organization.
+	
+- ### Week 2
+    - [ ] Complete pending week 1 tasks
+    - [ ] Complete section on "Learning about GSOC"
+        - [ ] Structure of the program.
+        - [ ] How it works?
+        - [ ] Organizations that participated in last year
+        - [ ] What is the benefit of participating in GSOC?
+        - [ ] Timeline and important dates.
