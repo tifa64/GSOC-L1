@@ -86,10 +86,10 @@ Track weekly progress in this section according to above mentioned goals.
         - [ ] Select 3 projects per organization.
 	
 - ### Week 2
-    - [ ] Complete pending week 1 tasks
+    - [x] Complete pending week 1 tasks
     - [ ] Complete section on "Learning about GSOC"
         - [ ] Structure of the program.
-        - [ ] How it works?
-        - [ ] Organizations that participated in last year
-        - [ ] What is the benefit of participating in GSOC?
-        - [ ] Timeline and important dates.
+        - [x] How it works?
+        - [x] Organizations that participated in last year
+        - [x] What is the benefit of participating in GSOC?
+        - [x] Timeline and important dates.
