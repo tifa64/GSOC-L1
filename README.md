@@ -87,8 +87,8 @@ Track weekly progress in this section according to above mentioned goals.
 	
 - ### Week 2
     - [x] Complete pending week 1 tasks
-    - [ ] Complete section on "Learning about GSOC"
-        - [ ] Structure of the program.
+    - [x] Complete section on "Learning about GSOC"
+        - [x] Structure of the program.
         - [x] How it works?
         - [x] Organizations that participated in last year
         - [x] What is the benefit of participating in GSOC?
